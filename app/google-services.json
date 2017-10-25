@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "21485299910",
+    "firebase_url": "https://aulafirebase-samuel-2cce9.firebaseio.com",
+    "project_id": "aulafirebase-samuel-2cce9",
+    "storage_bucket": "aulafirebase-samuel-2cce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21485299910:android:123cef0c6bd83ad5",
+        "android_client_info": {
+          "package_name": "br.edu.fcv.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21485299910-ctmr8alpomrue3uqs0hiarnn7vjudpp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgi4mSWPK0gnLrpfjzIQ56sdcxC-cFEwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
